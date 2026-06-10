@@ -1,7 +1,9 @@
 # 📱 Mobile Bottom Navigation
 
 یک منوی ناوبری مدرن مخصوص دستگاه‌های موبایل که برای دسترسی سریع کاربران به بخش‌های اصلی برنامه یا وب‌سایت طراحی شده است.
-
+🚀 Project: Navigation Menu  
+🌐 Live Demo: https://armin-wb.github.io/Navigation-Menu/
+💻 Built with: HTML, CSS,   
 ---
 
 ## ✨ امکانات
